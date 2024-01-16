@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-page/static/css/main.47f71f17.css",
-    "main.js": "/personal-page/static/js/main.5bc4bc17.js",
+    "main.css": "/personal-page/static/css/main.4dbcc781.css",
+    "main.js": "/personal-page/static/js/main.3df93143.js",
     "static/js/787.b7af92ad.chunk.js": "/personal-page/static/js/787.b7af92ad.chunk.js",
     "static/media/saluting-face_1fae1.png": "/personal-page/static/media/saluting-face_1fae1.2d568aebc39d830637c5.png",
     "static/media/CV_Filip_Adrian.pdf": "/personal-page/static/media/CV_Filip_Adrian.ec1d1b74a42c775e5bd4.pdf",
@@ -9,24 +9,25 @@
     "static/media/smiling-face-with-hearts_1f970.png": "/personal-page/static/media/smiling-face-with-hearts_1f970.bb85c42ea6d21609c9f8.png",
     "static/media/thinking-face_1f914.png": "/personal-page/static/media/thinking-face_1f914.6bcc4673122803a35ae7.png",
     "static/media/beaming-face-with-smiling-eyes_1f601.png": "/personal-page/static/media/beaming-face-with-smiling-eyes_1f601.a114ef42265ebf4fb5c7.png",
-    "static/media/getaticket.png": "/personal-page/static/media/getaticket.39fd25188ba1c364d4ad.png",
     "static/media/winking-face_1f609.png": "/personal-page/static/media/winking-face_1f609.9a0a97fa0c9b68912269.png",
     "static/media/robot_1f916.png": "/personal-page/static/media/robot_1f916.ec8158eefb7091ff3e6c.png",
-    "static/media/lovelycats.png": "/personal-page/static/media/lovelycats.dd449046c078f81cfc93.png",
-    "static/media/bg-resume-2.jpg": "/personal-page/static/media/bg-resume-2.e620a6883fca48384d32.jpg",
-    "static/media/coinflip.png": "/personal-page/static/media/coinflip.8d143ae05475f17fbdb8.png",
-    "static/media/bg-resume-mobile.jpg": "/personal-page/static/media/bg-resume-mobile.6adf2da7a19f597cdcdc.jpg",
+    "static/media/lovelycats.jpg": "/personal-page/static/media/lovelycats.4955bc2b614bd34fc232.jpg",
+    "static/media/getaticket.jpg": "/personal-page/static/media/getaticket.b28ace1b7b536ba96616.jpg",
+    "static/media/bg-resume-2.jpg": "/personal-page/static/media/bg-resume-2.54f70b44cfd088bbd145.jpg",
     "static/media/bg-landing-mobile.jpg": "/personal-page/static/media/bg-landing-mobile.ab971b4ee8ffcea25087.jpg",
+    "static/media/coinflip.jpg": "/personal-page/static/media/coinflip.38f2378b5fb05dfd4972.jpg",
     "static/media/bg-landing.jpg": "/personal-page/static/media/bg-landing.e031531d110a65362fb8.jpg",
+    "static/media/logo.png": "/personal-page/static/media/logo.efc498aa04a0b90cfa18.png",
+    "static/media/bg-resume-mobile.jpg": "/personal-page/static/media/bg-resume-mobile.4827e89f4c0d9eb262de.jpg",
     "static/media/Replit.jpg": "/personal-page/static/media/Replit.56e2b7bacb77d58db06b.jpg",
     "static/media/gmail.png": "/personal-page/static/media/gmail.9b2ee59593bd49b9370f.png",
     "index.html": "/personal-page/index.html",
-    "main.47f71f17.css.map": "/personal-page/static/css/main.47f71f17.css.map",
-    "main.5bc4bc17.js.map": "/personal-page/static/js/main.5bc4bc17.js.map",
+    "main.4dbcc781.css.map": "/personal-page/static/css/main.4dbcc781.css.map",
+    "main.3df93143.js.map": "/personal-page/static/js/main.3df93143.js.map",
     "787.b7af92ad.chunk.js.map": "/personal-page/static/js/787.b7af92ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47f71f17.css",
-    "static/js/main.5bc4bc17.js"
+    "static/css/main.4dbcc781.css",
+    "static/js/main.3df93143.js"
   ]
 }
