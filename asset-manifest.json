@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-page/static/css/main.4dbcc781.css",
-    "main.js": "/personal-page/static/js/main.4c71b567.js",
+    "main.css": "/personal-page/static/css/main.f6407904.css",
+    "main.js": "/personal-page/static/js/main.0134eb02.js",
     "static/js/787.b7af92ad.chunk.js": "/personal-page/static/js/787.b7af92ad.chunk.js",
     "static/media/saluting-face_1fae1.png": "/personal-page/static/media/saluting-face_1fae1.2d568aebc39d830637c5.png",
     "static/media/CV_Filip_Adrian.pdf": "/personal-page/static/media/CV_Filip_Adrian.ec1d1b74a42c775e5bd4.pdf",
@@ -22,12 +22,12 @@
     "static/media/Replit.jpg": "/personal-page/static/media/Replit.56e2b7bacb77d58db06b.jpg",
     "static/media/gmail.png": "/personal-page/static/media/gmail.9b2ee59593bd49b9370f.png",
     "index.html": "/personal-page/index.html",
-    "main.4dbcc781.css.map": "/personal-page/static/css/main.4dbcc781.css.map",
-    "main.4c71b567.js.map": "/personal-page/static/js/main.4c71b567.js.map",
+    "main.f6407904.css.map": "/personal-page/static/css/main.f6407904.css.map",
+    "main.0134eb02.js.map": "/personal-page/static/js/main.0134eb02.js.map",
     "787.b7af92ad.chunk.js.map": "/personal-page/static/js/787.b7af92ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dbcc781.css",
-    "static/js/main.4c71b567.js"
+    "static/css/main.f6407904.css",
+    "static/js/main.0134eb02.js"
   ]
 }
