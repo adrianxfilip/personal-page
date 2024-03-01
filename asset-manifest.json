@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/personal-page/static/css/main.f6407904.css",
-    "main.js": "/personal-page/static/js/main.0134eb02.js",
+    "main.js": "/personal-page/static/js/main.fdd223a7.js",
     "static/js/787.b7af92ad.chunk.js": "/personal-page/static/js/787.b7af92ad.chunk.js",
     "static/media/saluting-face_1fae1.png": "/personal-page/static/media/saluting-face_1fae1.2d568aebc39d830637c5.png",
-    "static/media/CV_Filip_Adrian.pdf": "/personal-page/static/media/CV_Filip_Adrian.ec1d1b74a42c775e5bd4.pdf",
+    "static/media/CV_Filip_Adrian.pdf": "/personal-page/static/media/CV_Filip_Adrian.2e96a8e21c9e5119af34.pdf",
     "static/media/face-in-clouds_1f636-200d-1f32b-fe0f.png": "/personal-page/static/media/face-in-clouds_1f636-200d-1f32b-fe0f.6f71a2cc53f6a5d20028.png",
     "static/media/smiling-face-with-hearts_1f970.png": "/personal-page/static/media/smiling-face-with-hearts_1f970.bb85c42ea6d21609c9f8.png",
     "static/media/thinking-face_1f914.png": "/personal-page/static/media/thinking-face_1f914.6bcc4673122803a35ae7.png",
@@ -23,11 +23,11 @@
     "static/media/gmail.png": "/personal-page/static/media/gmail.9b2ee59593bd49b9370f.png",
     "index.html": "/personal-page/index.html",
     "main.f6407904.css.map": "/personal-page/static/css/main.f6407904.css.map",
-    "main.0134eb02.js.map": "/personal-page/static/js/main.0134eb02.js.map",
+    "main.fdd223a7.js.map": "/personal-page/static/js/main.fdd223a7.js.map",
     "787.b7af92ad.chunk.js.map": "/personal-page/static/js/787.b7af92ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6407904.css",
-    "static/js/main.0134eb02.js"
+    "static/js/main.fdd223a7.js"
   ]
 }
